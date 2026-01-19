@@ -8,9 +8,7 @@
 
 ---
 
-<div align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/KzJkzjggfuU5FC0sPM/giphy.gif" width="200" />
-</div>
+---
 
 ## <img src="https://media.giphy.com/media/ObNTQn8DT-84VIp2qI/giphy.gif" width="30"> About Me
 
@@ -54,6 +52,12 @@ const kailasnath = {
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vim,vscode" />
 </div>
 
+<div align="center">
+  <h3>🚀 Currently Learning</h3>
+  <img src="https://skillicons.dev/icons?i=rust" />
+  <p><strong>Diving deep into Systems Programming with Rust</strong></p>
+</div>
+
 ---
 
 ## 📊 GitHub Analytics & Activity
@@ -74,14 +78,6 @@ const kailasnath = {
 
 ---
 
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1kailas&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌐 Connect & Socials
 
 <div align="center">
@@ -94,31 +90,14 @@ const kailasnath = {
   <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:kailasnath@email.com">
+  <a href="mailto:kailas62827@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🐍 Contribution Visualization
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1kailas/1kailas/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</div>
-
----
-
-## 💡 Quick Stats
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Commits-2K+-25C6E5?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-150+-25C6E5?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Issues%20Resolved-200+-25C6E5?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/Projects-40+-25C6E5?style=flat-square&logo=github" />
-</div>
-
----
 
 ## 🎯 Currently Working On
 
