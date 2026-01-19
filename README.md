@@ -6,10 +6,6 @@
 
 ---
 
----
-
----
-
 ## <img src="https://media.giphy.com/media/ObNTQn8DT-84VIp2qI/giphy.gif" width="30"> About Me
 
 ```typescript
