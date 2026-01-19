@@ -78,21 +78,14 @@ const kailasnath = {
 
 ---
 
+
 ## 🌐 Connect & Socials
 
 <div align="center">
-  <a href="https://linkedin.com/in/1kailas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/1kailas/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:kailas62827@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/1kailas/">LinkedIn: <b>1kailas</b></a> |
+  <a href="https://github.com/1kailas/">GitHub: <b>1kailas</b></a> |
+  <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag">Instagram: <b>_night.sky_26</b></a> |
+  <a href="mailto:kailas62827@gmail.com">Gmail: <b>kailas62827@gmail.com</b></a>
 </div>
 
 ---
