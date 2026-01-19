@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTQn8DT-84VIp2qI/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGM4dnF5cWlyYjBuMmpyMG9iYjA3NnVpbWYxOWl3YW45c25yZnhkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" width="30"> About Me
 
 ```typescript
 const kailasnath = {
