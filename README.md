@@ -6,7 +6,8 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGM4dnF5cWlyYjBuMmpyMG9iYjA3NnVpbWYxOWl3YW45c25yZnhkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" width="30"> About Me
+
+## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30"> About Me
 
 ```typescript
 const kailasnath = {
@@ -75,13 +76,22 @@ const kailasnath = {
 ---
 
 
+
 ## 🌐 Connect & Socials
 
 <div align="center">
-  <a href="https://linkedin.com/in/1kailas/">LinkedIn: <b>1kailas</b></a> |
-  <a href="https://github.com/1kailas/">GitHub: <b>1kailas</b></a> |
-  <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag">Instagram: <b>_night.sky_26</b></a> |
-  <a href="mailto:kailas62827@gmail.com">Gmail: <b>kailas62827@gmail.com</b></a>
+  <a href="https://linkedin.com/in/1kailas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/1kailas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36" height="36" alt="Instagram" />
+  </a>
+  <a href="mailto:kailas62827@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="36" height="36" alt="Gmail" />
+  </a>
 </div>
 
 ---
