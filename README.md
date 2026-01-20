@@ -66,11 +66,15 @@ const kailasnath = {
 </div>
 
 <div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=1kailas&theme=dark&hide_border=true&background=0D1117&ring=25C6E5&fire=25C6E5&currStreakLabel=25C6E5" alt="GitHub Streak" />
+  <!-- GitHub Streak - Service appears to be unreliable. Using contribution graph instead -->
 </div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1kailas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1kailas&theme=github_dark" width="98%" alt="Productive Time" />
 </div>
 
 ---
