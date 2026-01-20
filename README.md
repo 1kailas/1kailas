@@ -73,12 +73,7 @@ const kailasnath = {
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1kailas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1kailas&theme=github_dark" width="98%" alt="Productive Time" />
-</div>
-
 ---
-
 
 
 ## 🌐 Connect & Socials
