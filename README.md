@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kailasnath%20T&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Dev%20%7C%20Linux%20Enthusiast&descAlignY=55&descAlign=50" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25C6E5&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Web+Applications;Crafting+Native+Mobile+Experiences;Mastering+Linux+Automation;Architecting+Robust+Backend+Systems;Open+Source+Contributor" alt="Typing SVG" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1kailas&theme=tokyonight&hide_border=true&stroke=25C6E5&ring=25C6E5&fire=DD2727&currStreakLabel=25C6E5" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,10 +65,6 @@ const kailasnath = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1kailas&show_icons=true&count_private=true&hide_border=true&title_color=25C6E5&icon_color=25C6E5&text_color=c9d1d9&bg_color=0d1117" alt="Kailasnath's GitHub Stats" />
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kailas&layout=compact&hide_border=true&title_color=25C6E5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <!-- GitHub Streak - Service appears to be unreliable. Using contribution graph instead -->
 </div>
 
 <div align="center">
