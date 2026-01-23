@@ -3,7 +3,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25C6E5&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Web+Applications;Crafting+Native+Mobile+Experiences;Mastering+Linux+Automation;Architecting+Robust+Backend+Systems;Open+Source+Contributor" alt="Typing SVG" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1kailas&theme=tokyonight&hide_border=true&stroke=25C6E5&ring=25C6E5&fire=DD2727&currStreakLabel=25C6E5" alt="GitHub Streak" />
 </div>
 
 ---
