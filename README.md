@@ -17,9 +17,9 @@ const kailasnath = {
   specialization: ["Web Development", "Mobile App Development", "Backend Systems"],
   technologies: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    mobile: ["Flutter", "React Native", "Firebase"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    devops: ["Docker", "Git", "Linux", "CI/CD"]
+    mobile:   ["Flutter", "React Native", "Firebase"],
+    backend:  ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+    devops:   ["Docker", "Git", "Linux", "CI/CD"]
   },
   environment: "Linux & Vim",
   fun_fact: "Night owl 🌙 - Most productive after midnight"
