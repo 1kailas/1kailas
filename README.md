@@ -13,7 +13,7 @@
 ```typescript
 const kailasnath = {
   name: "Kailasnath T",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer and Designer",
   specialization: ["Web Development", "Mobile App Development", "Backend Systems"],
   technologies: {
     frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
