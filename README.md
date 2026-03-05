@@ -61,7 +61,7 @@ const kailasnath = {
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img width="49%" height="195px" src="https://nirzak-octoprofile.vercel.app/api?username=1kailas&show_icons=true&count_private=true&hide_border=true&title_color=25C6E5&icon_color=25C6E5&text_color=c9d1d9&bg_color=0d1117" alt="Kailasnath's GitHub Stats" />
+  <img width="49%" height="195px" src="https://nirzak-octoprofile.vercel.app/?username=1kailas&show_icons=true&count_private=true&hide_border=true&title_color=25C6E5&icon_color=25C6E5&text_color=c9d1d9&bg_color=0d1117" alt="Kailasnath's GitHub Stats" />
   
   <img width="49%" height="195px" src="https://nirzak-octoprofile.vercel.app/api/top-langs/?username=1kailas&layout=compact&hide_border=true&title_color=25C6E5&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
