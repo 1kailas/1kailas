@@ -61,9 +61,9 @@ const kailasnath = {
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=vision_friendly_dark" alt="Kailasnath's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=transparent" alt="Kailasnath's GitHub Stats" />
   
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=vision_friendly_dark" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=transparent" alt="Top Languages" />
 </div>
 
 <div align="center">
