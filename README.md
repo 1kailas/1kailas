@@ -54,39 +54,18 @@ React and Next.js, Node.js, Flutter, Linux, open source, and starting a web desi
 
 ## 📌 Featured Projects:
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/1kailas/appnest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=appnest&theme=tokyonight&hide_border=true" alt="AppNest" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/1kailas/Stray_Care"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=Stray_Care&theme=tokyonight&hide_border=true" alt="Stray_Care" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/1kailas/Player_Connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=Player_Connect&theme=tokyonight&hide_border=true" alt="Player_Connect" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/1kailas/Blog_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=Blog_app&theme=tokyonight&hide_border=true" alt="Blog_app" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/1kailas/Face-recognizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=Face-recognizer&theme=tokyonight&hide_border=true" alt="Face-recognizer" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/1kailas/Discord-CloudBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1kailas&repo=Discord-CloudBot&theme=tokyonight&hide_border=true" alt="Discord-CloudBot" /></a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**AppNest**](https://github.com/1kailas/appnest) | A modern, lightweight AppImage manager for Linux with drag-and-drop import, SHA-256 verification and desktop integration. Install from the AUR with `yay -S appnest`. | Rust · GTK4 · Libadwaita |
+| [**Discord-CloudBot**](https://github.com/1kailas/Discord-CloudBot) | A Discord bot built with Python. | Python |
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=transparent" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=transparent" alt="Top languages" />
-</div>
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=transparent" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=transparent" alt="Top languages" />
+</p>
 
 ## 🌐 Let's Connect:
 
