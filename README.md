@@ -31,24 +31,20 @@ React and Next.js, Node.js, Flutter, Linux, open source, and starting a web desi
 
 <table>
   <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart" alt="Languages" /></td>
+    <td><b>Languages</b></td>
+    <td><img height="42" src="https://skillicons.dev/icons?i=ts,js,python,rust,dart&perline=7" alt="Languages" /></td>
+    <td><b>Frontend</b></td>
+    <td><img height="42" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=7" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /></td>
+    <td><b>Backend</b></td>
+    <td><img height="42" src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase&perline=7" alt="Backend" /></td>
+    <td><b>Mobile</b></td>
+    <td><img height="42" src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=7" alt="Mobile" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vim,vscode" alt="Tools" /></td>
+    <td><b>Tools</b></td>
+    <td colspan="3"><img height="42" src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vim,vscode&perline=7" alt="Tools" /></td>
   </tr>
 </table>
 
@@ -69,6 +65,8 @@ React and Next.js, Node.js, Flutter, Linux, open source, and starting a web desi
 
 ## 🌐 Let's Connect:
 
-<a href="https://kailaz.in"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/1kailas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kailas62827@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://kailaz.in"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/1kailas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kailas62827@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
