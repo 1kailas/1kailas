@@ -1,123 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kailasnath%20T&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Dev%20%7C%20Linux%20Enthusiast&descAlignY=55&descAlign=50" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25C6E5&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Web+Applications;Crafting+Native+Mobile+Experiences;Mastering+Linux+Automation;Architecting+Robust+Backend+Systems;Open+Source+Contributor" alt="Typing SVG" />
-  <br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Kailasnath%20T&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Mobile%20%C2%B7%20Linux%20%26%20Systems&descSize=16&descAlignY=62" alt="Kailasnath T" />
+
 </div>
 
----
+## 💫 About Me:
 
+🔭 **I'm currently working on:**
+Webliz, my web design and development studio for small businesses, and AppNest, an open-source AppImage manager for Linux built with Rust, GTK4 and Libadwaita.
 
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30"> About Me
+👯 **I'm looking to collaborate on:**
+Open-source projects, Linux and Rust tooling, and web or mobile products that solve real problems for small businesses.
 
-```typescript
-const kailasnath = {
-  name: "Kailasnath T",
-  role: "Full Stack Developer and Designer",
-  specialization: ["Web Development", "Mobile App Development", "Backend Systems"],
-  technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    mobile:   ["Flutter", "React Native", "Firebase"],
-    backend:  ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-    devops:   ["Docker", "Git", "Linux", "CI/CD"]
-  },
-  environment: "Linux & Vim",
-  fun_fact: "Night owl 🌙 - Most productive after midnight"
-};
-```
+🤝 **I'm looking for help with:**
+Systems programming in Rust, software architecture best practices, and growing a web agency.
 
----
+🌱 **I'm currently learning:**
+Rust, Flutter, and building production-ready full-stack applications.
 
-## 🛠️ Tech Stack & Expertise
+💬 **Ask me about:**
+React and Next.js, Node.js, Flutter, Linux, open source, and starting a web design studio.
+
+## 🌐 Socials:
+
+<a href="https://linkedin.com/in/1kailas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kailas62827@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/1kailas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+## 💻 Tech Stack:
+
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vim,vscode" alt="Tools" /></td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats:
 
 <div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=transparent" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=transparent" alt="Top languages" />
 </div>
 
-<div align="center">
-  <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
-</div>
-
-<div align="center">
-  <h3>Mobile Development</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-</div>
-
-<div align="center">
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vim,vscode" />
-</div>
-
-<div align="center">
-  <h3>🚀 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=rust" />
-  <p><strong>Diving deep into Systems Programming with Rust</strong></p>
-</div>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1kailas&theme=transparent" alt="Kailasnath's GitHub Stats" />
-  
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1kailas&theme=transparent" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=1kailas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-
-## 🌐 Connect & Socials
-
-<div align="center">
-  <a href="https://linkedin.com/in/1kailas/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/1kailas/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/_night.sky_26/?utm_source=qr&r=nametag" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="mailto:kailas62827@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
----
-
-
-## 🎯 Currently Working On
-
-- 🚀 Advanced full-stack architectures with microservices
-- 📱 Cross-platform mobile apps with Flutter
-- 🔐 Security-first backend systems
-- 🐧 Linux automation & DevOps pipelines
-- 📚 Open-source contributions
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-Professional-informational?style=flat-square&logo=linux&logoColor=white&color=FCC624&label=%F0%9F%90%A7" />
-  <img src="https://img.shields.io/badge/Vim-Mastered-informational?style=flat-square&logo=vim&logoColor=white&color=019733" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-informational?style=flat-square&logo=github&logoColor=white&color=181717" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=fff&animation=fadeIn" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-Professional-blue?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Vim-Focused-green?style=flat-square&logo=vim" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=flat-square" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=70&section=footer" alt="" />
